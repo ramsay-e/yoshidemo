@@ -13,14 +13,14 @@ export const projects = [
     name: "P1",
     description:
       "Desc for P1",
-    image: "/headshot.png",
+    image: "/headshot.jpg",
     github: "https://github.com/",
     link: "https://github.com/",
   },
   {
     name: "P2",
     description: "Desc for P2",
-    image: "/headshot.png",
+    image: "/headshot.jpg",
     github: "https://github.com/",
     link: "https://github.com/",
   },
@@ -28,7 +28,7 @@ export const projects = [
     name: "P3",
     description:
       "Desc for P3",
-    image: "/headshot.png",
+    image: "/headshot.jpg",
     github: "https://github.com/",
     link: "https://github.com/",
   },
